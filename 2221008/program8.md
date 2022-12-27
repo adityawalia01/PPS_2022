@@ -1,4 +1,4 @@
-## program1: write a program to use loops ("while")
+## program8: write a program to use loops ("while")
 
 #include <stdio.h>
 
