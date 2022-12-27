@@ -16,4 +16,4 @@ return 0;
 
 }
 ```
-## *Output*: 7
+##  *Output*: 7
